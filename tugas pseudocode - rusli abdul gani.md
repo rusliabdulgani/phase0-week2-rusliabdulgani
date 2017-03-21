@@ -13,7 +13,7 @@
 <li>BACA dan SIMPAN "string kata"</li>
 <li>JIKA "string kata" sama dengan "Saya Belajar Javascript" maka jalankan perintah</li>
 <li>TAMPILKAN "Pasti Bisa!"</li>
-
+</ul>
 
 <h3>Tugas 3</h3>
 <ul>
@@ -21,6 +21,7 @@
 <li>SELAMA "deret" sama dengan 1, "deret" kurang dari sama dengan "angka", "deret" increment 1</li>
 <li>JIKA "deret" modulus 3 sama dengan 0</li>
 <li>TAMPILKAN "deret"</li>
+</ul>
 
 
 
