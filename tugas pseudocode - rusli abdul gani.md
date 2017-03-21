@@ -1,12 +1,12 @@
 
 <h3>Tugas 1</h3>
-
-BACA dan SIMPAN "angka pertama"<br>
-BACA dan SIMPAN "angka kedua"<br>
-HITUNG "angka pertama" dikalikan "angka kedua"<br>
-SIMPAN hasil hitungan sebelumnya<br>
-TAMPILKAN hasil hitungan<br>
-
+<ul>
+<li>BACA dan SIMPAN "angka pertama"</li>
+<li>BACA dan SIMPAN "angka kedua"</li>
+<li>HITUNG "angka pertama" dikalikan "angka kedua"</li>
+<li>SIMPAN hasil hitungan sebelumnya</li>
+<li>TAMPILKAN hasil hitungan</li>
+</ul>
 
 <h3>Tugas 2</h3>
 
