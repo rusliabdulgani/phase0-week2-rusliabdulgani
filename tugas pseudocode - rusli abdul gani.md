@@ -9,18 +9,18 @@
 </ul>
 
 <h3>Tugas 2</h3>
-
-BACA dan SIMPAN "string kata"
-JIKA "string kata" sama dengan "Saya Belajar Javascript" maka jalankan perintah
-TAMPILKAN "Pasti Bisa!"
+<ul>
+<li>BACA dan SIMPAN "string kata"</li>
+<li>JIKA "string kata" sama dengan "Saya Belajar Javascript" maka jalankan perintah</li>
+<li>TAMPILKAN "Pasti Bisa!"</li>
 
 
 <h3>Tugas 3</h3>
-
-BACA dan SIMPAN "angka"
-SELAMA "deret" sama dengan 1, "deret" kurang dari sama dengan "angka", "deret" increment 1
-JIKA "deret" modulus 3 sama dengan 0
-TAMPILKAN "deret"
+<ul>
+<li>BACA dan SIMPAN "angka"</li>
+<li>SELAMA "deret" sama dengan 1, "deret" kurang dari sama dengan "angka", "deret" increment 1</li>
+<li>JIKA "deret" modulus 3 sama dengan 0</li>
+<li>TAMPILKAN "deret"</li>
 
 
 
